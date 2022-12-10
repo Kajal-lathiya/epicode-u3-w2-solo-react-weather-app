@@ -1,6 +1,6 @@
 const initialState = {
   weather: {
-    content: []
+    content: null
   }
 };
 
